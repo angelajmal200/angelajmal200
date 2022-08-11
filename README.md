@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://github.com/angelajmal200](https://github.com/angelajmal200)
 
-- ⚡ Fun fact **I think I am Funny LOL 😉😉**
+- ⚡ Fun fact **I think I am Funny LOL  he he😉😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
