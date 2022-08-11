@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelajmal200&label=Profile%20views&color=0e75b6&style=flat" alt="angelajmal200" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@johnson_ajmal" target="blank"><img src="https://img.shields.io/twitter/follow/@johnson_ajmal?logo=twitter&style=for-the-badge" alt="@johnson_ajmal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@johnson_ajmal" target="blank"></a> </p>
 
 - 🔭 My latest project [PPT Presentation Using Hand Gesture](https://github.com/angelajmal200/presentaion)
 
