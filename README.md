@@ -7,7 +7,7 @@
 
 - 🔭 My latest project [PPT Presentation Using Hand Gesture](https://github.com/angelajmal200/presentaion)
 
-- 🌱 I’m currently learning **React**
+- 🌱 Basic knowledge of  **React & Angular**
 
 - 🔭 My latest project [Stock Market Prediction Web App](https://github.com/angelajmal200/stockmarket)
 
